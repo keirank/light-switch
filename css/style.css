@@ -1,0 +1,34 @@
+*
+
+.switches {
+  margin-top: 14.5em;
+}
+
+h1 {
+  display: inline;
+  font-family: 'Abril fatface';
+  font-size: 5em;
+  opacity: 0.9;
+}
+
+h1:hover {
+  opacity: 1;
+  cursor: pointer;
+}
+
+.all {
+  background-color: black;
+}
+
+#on {
+  margin-left: 12em;
+  color: white;
+}
+
+#off {
+  margin-left: 5em;
+}
+
+.all-off {
+  background-color: white;
+}
